@@ -5,7 +5,13 @@
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-redux": "^6.0.0",
+    "react-scripts": "2.1.2",
+    "react-three-renderer": "^3.2.4",
+    "react-three-renderer-objects": "0.0.6",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "three": "^0.89.0"
   },
   "scripts": {
     "start": "react-scripts start",
